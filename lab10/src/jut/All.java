@@ -25,7 +25,7 @@ public class All {
 package lab12;
 import java.util.*;
 
-public class Main {
+public class Main {  //main class
 	
 		public static void main(String[] args) {
 			// Create a Scanner
